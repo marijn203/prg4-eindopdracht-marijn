@@ -1,5 +1,5 @@
 {
-    "activeFile": "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/path.tsx",
+    "activeFile": "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/map.tmx",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -9,11 +9,11 @@
             "scaleInDock": 1
         },
         "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/map.tmx": {
-            "scale": 2.529375,
+            "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 199.65406473931307,
-                "y": 110.10625154435384
+                "x": 471,
+                "y": 278.5
             }
         },
         "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/path.tsx": {
@@ -67,12 +67,12 @@
         }
     },
     "openFiles": [
-        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/path.tsx",
-        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/map.tmx"
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/map.tmx",
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/path.tsx"
     ],
     "project": "",
     "recentFiles": [
-        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/map.tmx",
-        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/path.tsx"
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/path.tsx",
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/map.tmx"
     ]
 }

@@ -3,7 +3,7 @@ import * as tiled from '@excaliburjs/plugin-tiled'
 
 // voeg hier jouw eigen resources toe
 const Resources = {
-    Fish: new ImageSource('images/fish.png'),
+    Wolf: new ImageSource('images/howl.png'),
     Path: new tiled.TiledResource('map.tmx')
 
 }
