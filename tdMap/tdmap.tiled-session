@@ -1,12 +1,62 @@
 {
-    "Map/SizeTest": {
-        "height": 4300,
-        "width": 2
-    },
-    "activeFile": "",
+    "activeFile": "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/path.tsx",
     "expandedProjectPaths": [
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/path.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/map.tmx": {
+            "scale": 2.529375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 199.65406473931307,
+                "y": 110.10625154435384
+            }
+        },
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/path.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/td-map.tmx": {
+            "scale": 1.6268749999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 238.18670764502497,
+                "y": 158.27890895121016
+            }
+        },
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/test/path.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/test/td-map-test.tmx": {
+            "scale": 2.529375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.17790956263897,
+                "y": 160.31628366691376
+            }
+        },
+        "C:/Users/jgver/OneDrive/Documenten/prg4/td map/path.tsx": {
+            "scaleInDock": 1
+        },
+        "map.tmx": {
+            "scale": 2.529375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.57326414628116,
+                "y": 159.52557449962939
+            }
+        },
+        "path.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "td-map.tmx": {
             "scale": 1.2646875,
             "selectedLayer": 0,
@@ -16,19 +66,13 @@
             }
         }
     },
-    "last.imagePath": "C:/Program Files/Tiled/examples",
-    "map.lastUsedFormat": "tmx",
-    "map.tileHeight": 16,
-    "map.tileWidth": 16,
     "openFiles": [
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/path.tsx",
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/map.tmx"
     ],
-    "project": "tdmap.tiled-project",
+    "project": "",
     "recentFiles": [
-        "td-map.tmx"
-    ],
-    "tileset.lastUsedFormat": "tsx",
-    "tileset.tileSize": {
-        "height": 16,
-        "width": 16
-    }
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/map.tmx",
+        "C:/Users/jgver/OneDrive/Documenten/prg4/prg4 eindopdracht/prg4-eindopdracht-marijn/public/path.tsx"
+    ]
 }

@@ -1,7 +1,8 @@
 import '../css/style.css'
-import { Actor, Engine, Vector, DisplayMode } from "excalibur"
+import { Actor, Engine, Vector, DisplayMode, Keys, Timer } from "excalibur"
 import { Resources, ResourceLoader } from './resources.js'
-import { TiledResource } from '@excaliburjs/plugin-tiled'
+import { waves } from './waves.js'
+import { Fish } from './fish.js'
 
 export class Game extends Engine {
 
@@ -13,23 +14,16 @@ export class Game extends Engine {
             displayMode: DisplayMode.FitScreen
          })
         this.start(ResourceLoader).then(() => this.startGame())
-
-        // const game = new ex.Engine({...});
-        // const tiledMap = new TiledResource('./tdMap/td-map.tmx');
-        // const loader = new ex.Loader([tiledMap]);
-        // game.start(loader).then(() => {
-        //     tiledMap.addToScene(game.currentScene);
-        // });
-
     }
 
     startGame() {
+        Resources.Path.addToScene(this.currentScene);
         console.log("start de game!")
-        const fish = new Actor()
-        fish.graphics.use(Resources.Fish.toSprite())
-        fish.pos = new Vector(400, 300)
-        fish.vel = new Vector(-10,0)
-        this.add(fish)
+    }
+    onPreUpdate(engine){
+        if(engine.input.keyboard.wasReleased(Keys.Space)){
+            console.log('wave started');
+        }
     }
 }
 
