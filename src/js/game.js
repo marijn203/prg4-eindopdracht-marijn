@@ -1,6 +1,7 @@
 import '../css/style.css'
 import { Actor, Engine, Vector, DisplayMode } from "excalibur"
 import { Resources, ResourceLoader } from './resources.js'
+import { TiledResource } from '@excaliburjs/plugin-tiled'
 
 export class Game extends Engine {
 
@@ -12,6 +13,14 @@ export class Game extends Engine {
             displayMode: DisplayMode.FitScreen
          })
         this.start(ResourceLoader).then(() => this.startGame())
+
+        // const game = new ex.Engine({...});
+        // const tiledMap = new TiledResource('./tdMap/td-map.tmx');
+        // const loader = new ex.Loader([tiledMap]);
+        // game.start(loader).then(() => {
+        //     tiledMap.addToScene(game.currentScene);
+        // });
+
     }
 
     startGame() {
